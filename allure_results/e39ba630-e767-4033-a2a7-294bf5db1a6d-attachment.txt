@@ -1,0 +1,1 @@
+current_url https://dzen.ru/?yredirect=true равен https://dzen.ru/?yredirect=true
