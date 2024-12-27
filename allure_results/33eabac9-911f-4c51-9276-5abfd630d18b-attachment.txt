@@ -1,0 +1,1 @@
+Арибут элемента 3 'aria-expanded' изменился с false на true 
