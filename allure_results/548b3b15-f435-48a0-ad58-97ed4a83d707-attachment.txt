@@ -1,0 +1,1 @@
+Заголовок страницы Для кого самокат совпадает с ожидаемым заголовком Для кого самокати current_url https://qa-scooter.praktikum-services.ru/order равен https://qa-scooter.praktikum-services.ru/order
